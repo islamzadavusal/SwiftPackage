@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A68BF8FE-EDD2-4E21-B09C-AA476A1A3288"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B231A2E-FDD7-4B74-9B6B-D42215276AA9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackage/db/RealmService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getAllNotes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E091080-F895-4C52-A363-6FC74F0EF40A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftPackage/features/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "saveBtn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E091080-F895-4C52-A363-6FC74F0EF40A - db58ca052849c1e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPackage.ViewController.saveBtn(Any) -&gt; ()"
+                  moduleName = "SwiftPackage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/islamzada/Desktop/IOS%20Projects/SwiftPackage/SwiftPackage/features/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1164">
+               </Location>
+               <Location
+                  uuid = "5E091080-F895-4C52-A363-6FC74F0EF40A - db58ca052849c162"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftPackage.ViewController.saveBtn(Any) -&gt; ()"
+                  moduleName = "SwiftPackage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/islamzada/Desktop/IOS%20Projects/SwiftPackage/SwiftPackage/features/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
